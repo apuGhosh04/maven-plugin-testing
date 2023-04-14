@@ -89,7 +89,7 @@ Additional Resources
 + [GitHub pull request documentation](https://help.github.com/send-pull-requests/)
 + [Apache Maven Twitter Account](https://twitter.com/ASFMavenProject)
 + #Maven IRC channel on freenode.org
-
+####
 [jira]: https://issues.apache.org/jira/projects/MPLUGINTESTING/
 [license]: https://www.apache.org/licenses/LICENSE-2.0
 [ml-list]: https://maven.apache.org/mailing-lists.html
